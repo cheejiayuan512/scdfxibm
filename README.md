@@ -43,12 +43,26 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+### Voice enabled COVID-19 crisis communication chatbot using Node-RED
+
+![Crisis Comms Architecture diagram](/images/Crisis-Comms-Architecture-Node-RED.png)
+
+1. User visits a voice-enabled Node-RED website with the COVID-19 chatbot and asks a question.
+2. Node-RED records the speech wav file and calls the Watson Speech to Text service hosted in IBM Cloud.
+3. Watson Speech to Text uses machine learning to decode the user's speech.
+4. Watson Speech to Text replies with a transcript of the COVID-19 question and Node-RED calls Watson Assistant service hosted in IBM Cloud.
+5. Watson Assistant uses natural language understanding and machine learning to extract entities and intents of the user's question.
+6. Source COVID-19 FAQ information from trusted CDC data
+7. Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
+8. IBM Cloud Function calls the Watson Discovery service running in IBM Cloud.
+9. Watson Discovery scans news articles and responds with relevant articles.
+10. Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
+11. IBM Cloud Function calls the COVID-19 API to get statistics.
+12. Watson Assistant replies to the user inquiry and Node-RED sends the text transcript to Watson Text to Speech.
+13. Watson Text to Speech encodes the message in the user's language.
+14. Node-RED plays the chat answer wav file to the user.
+15. User listens to the chat answer.
 
 ## Long description
 
