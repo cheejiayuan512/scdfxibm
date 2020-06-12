@@ -27,15 +27,17 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+The main problem is that elderly may have health problems which go unnoticed when they do not have a caregiver to take care of their well being. Also, some elderly living alone may not be able to seek out assistance in times of emergency. In such instances, we seek to find an alternative to monitor the health condition of the elderly.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Voice-enabled chatbot and artificial intelligence is used to communicate with our elderly. Data Analysis on what the Elderly had been saying to the chatbot (Pattern Recognition) and Tone ‘Analysis to detect emotions to access the situation.
+
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Through the use of voice-enabled chatbot and artificial intelligence, we seek to communicate with the elderly in the absence of a human caretaker. The chatbot will be able to detect conditions such as dementia or a bad fall through communication and to act as a one-stop service for elderly seeking help.
+
 
 ## Demo video
 
@@ -157,7 +159,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Cai Xin Rui** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Chee Jia Yuan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Chee Jia Yuan** - *Initial work* - [PurpleBooth](https://github.com/cheejiayuan512)
 * **Jefferson Li** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Shao Ya Kun** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Noah Sia** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
