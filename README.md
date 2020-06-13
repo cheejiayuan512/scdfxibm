@@ -72,14 +72,6 @@ Through the use of voice-enabled chatbot and artificial intelligence, we seek to
 19. Chatbot waits for input from elderly by initiating further small talk and checks for responses from the user.
 
 
-## Long description
-
-[More detail is available here](DESCRIPTION.md)
-
-## Project roadmap
-
-![Roadmap](roadmap.jpg)
-
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -88,83 +80,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+1.An android phone with usb debugging and untrusted app installation permissions.
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
-
+1. Download the .apk [here.](url)
+2. Install and try it out for yourself!
 ## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+Alternatively, You can find a live web demo of our ChatBot to test [here](second url)
 
 ## Built with
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
-* **Cai Xin Rui** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Cai Xin Rui** - [CaiXinRui](https://github.com/CaiXinRui)
 * **Chee Jia Yuan** - [cheejiayuan512](https://github.com/cheejiayuan512)
 * **Jefferson Li** - [JLZJ](https://github.com/JLZJ)
 * **Shao Ya Kun** - [Yakun212](https://github.com/Yakun212)
