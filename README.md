@@ -4,7 +4,7 @@ SCDF works closely with Community First Responders (CFRs) to provide timely reli
 
 # Elderly Helper to the Rescue!
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](scdfxibm.slack.com) [![Website](https://img.shields.io/badge/View-Website-blue)](https://github.com/cheejiayuan512/scdfxibm)
 
 
 ## Contents
