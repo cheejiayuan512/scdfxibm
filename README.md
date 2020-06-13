@@ -167,7 +167,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Cai Xin Rui** - [PurpleBooth](https://github.com/PurpleBooth)
 * **Chee Jia Yuan** - [cheejiayuan512](https://github.com/cheejiayuan512)
 * **Jefferson Li** - [JLZJ](https://github.com/JLZJ)
-* **Shao Ya Kun** - [Yak](https://github.com/Yakun212)
+* **Shao Ya Kun** - [Yakun212](https://github.com/Yakun212)
 * **Noah Seah** - [noahseah](https://github.com/noahseah)
 
 See also the list of [contributors](https://github.com/cheejiayuan512/scdfxibm/contributors) who participated in this project.
