@@ -12,14 +12,10 @@ SCDF works closely with Community First Responders (CFRs) to provide timely reli
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Authors](#authors)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
@@ -88,7 +84,9 @@ A step by step series of examples that tell you how to get a development env run
 
 1. Download the .apk [here.](url)
 2. Install and try it out for yourself!
+
 ## Live demo
+
 Alternatively, You can find a live web demo of our ChatBot to test [here](second url)
 
 ## Built with
