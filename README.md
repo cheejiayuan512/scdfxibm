@@ -49,7 +49,7 @@ Through the use of voice-enabled chatbot and artificial intelligence, we seek to
 
 ### Voice enabled COVID-19 crisis communication chatbot using Node-RED
 
-![Crisis Comms Architecture diagram](/images/Architecture Graph.png)
+![Elderly Helper Architecture diagram](/images/Architecture Graph.PNG)
 
 1. User launches the voice-enabled Node-RED Elderly chatbot android app and App initiates a conversation. 
 2. User replies.
