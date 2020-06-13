@@ -164,11 +164,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Cai Xin Rui** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Chee Jia Yuan** - *Initial work* - [PurpleBooth](https://github.com/cheejiayuan512)
-* **Jefferson Li** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Shao Ya Kun** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Noah Sia** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Cai Xin Rui** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Chee Jia Yuan** - [cheejiayuan512](https://github.com/cheejiayuan512)
+* **Jefferson Li** - [JLZJ](https://github.com/JLZJ)
+* **Shao Ya Kun** - [Yak](https://github.com/Yakun212)
+* **Noah Seah** - [noahseah](https://github.com/noahseah)
 
 See also the list of [contributors](https://github.com/cheejiayuan512/scdfxibm/contributors) who participated in this project.
 
