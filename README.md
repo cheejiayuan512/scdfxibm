@@ -51,21 +51,26 @@ Through the use of voice-enabled chatbot and artificial intelligence, we seek to
 
 ![Crisis Comms Architecture diagram](/images/Crisis-Comms-Architecture-Node-RED.png)
 
-1. User visits a voice-enabled Node-RED website with the COVID-19 chatbot and asks a question.
-2. Node-RED records the speech wav file and calls the Watson Speech to Text service hosted in IBM Cloud.
-3. Watson Speech to Text uses machine learning to decode the user's speech.
-4. Watson Speech to Text replies with a transcript of the COVID-19 question and Node-RED calls Watson Assistant service hosted in IBM Cloud.
-5. Watson Assistant uses natural language understanding and machine learning to extract entities and intents of the user's question.
-6. Source COVID-19 FAQ information from trusted CDC data
-7. Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
-8. IBM Cloud Function calls the Watson Discovery service running in IBM Cloud.
-9. Watson Discovery scans news articles and responds with relevant articles.
+1. User launches the voice-enabled Node-RED Elderly chatbot android app and App initiates a conversation. 
+2. User replies.
+3. Node-RED records the speech wav file and calls the Watson Speech to Text service hosted in IBM Cloud.
+4. Watson Speech to Text uses machine learning to decode the user's speech.
+5. (Optionally), Watson Language Translator translates speech into english.
+6. (Optionally) Watson Tone Analyzer to detect user emotion to detect emergency, natural language understanding and historical data to analyse the condition and wellbeing of the user.
+7. Watson Speech to Text replies with a transcript of the question and Node-RED calls Watson Assistant service hosted in IBM Cloud.
+8. Watson Assistant uses natural language understanding and machine learning to extract entities and intents of the user's question using Natural Language Classifier.
+9. Source (specific stuff here) FAQ information from trusted data like(give sources)
 10. Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
-11. IBM Cloud Function calls the COVID-19 API to get statistics.
-12. Watson Assistant replies to the user inquiry and Node-RED sends the text transcript to Watson Text to Speech.
-13. Watson Text to Speech encodes the message in the user's language.
-14. Node-RED plays the chat answer wav file to the user.
-15. User listens to the chat answer.
+11. IBM Cloud Function calls the Watson Discovery service running in IBM Cloud or other services to fulfil the user intent.
+12. Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
+13. IBM Cloud Function calls the Elderly chatbot to get statistics.
+14. Watson Assistant replies to the user inquiry and Node-RED sends the text transcript to Watson Text to Speech.
+15. (Optionally), Watson Language Translator translate the text object into the user’s native language
+16. Watson Text to Speech encodes the message
+17. Node-RED plays the chat answer .wav file to the user.
+18. User listens to the chat answer
+19. Chatbot waits for input from elderly by initiating further small talk and checks for responses from the user.
+
 
 ## Long description
 
