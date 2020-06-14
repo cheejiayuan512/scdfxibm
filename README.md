@@ -38,7 +38,7 @@ Through the use of voice-enabled chatbot and artificial intelligence, we seek to
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://www.youtube.com/watch?v=A9jiiRzZD44&feature=youtu.be)
 
 ## The architecture
 
