@@ -37,7 +37,7 @@ Through the use of voice-enabled chatbot and artificial intelligence, we seek to
 
 
 ## Demo video
-[![Watch the video](https://github.com/cheejiayuan512/images/hqdefault.jpg)](https://www.youtube.com/watch?v=A9jiiRzZD44&feature=youtu.be)
+[![Watch the video](/images/hqdefault.jpg)](https://www.youtube.com/watch?v=A9jiiRzZD44&feature=youtu.be)
 
 
 ## The architecture
