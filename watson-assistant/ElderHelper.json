@@ -1,0 +1,2994 @@
+{
+  "intents": [
+    {
+      "intent": "Chest_Pain",
+      "examples": [
+        {
+          "text": "argh my chest hurts"
+        },
+        {
+          "text": "ouch me hurts"
+        },
+        {
+          "text": "i need inhaler"
+        },
+        {
+          "text": "My chest pain"
+        },
+        {
+          "text": "My chest is tight"
+        },
+        {
+          "text": "My chest hurts"
+        },
+        {
+          "text": "I need air"
+        },
+        {
+          "text": "i going die"
+        },
+        {
+          "text": "I feel like I am about to faint"
+        },
+        {
+          "text": "i die soon"
+        },
+        {
+          "text": "I can’t breathe"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "delete my web history"
+        },
+        {
+          "text": "death awaits"
+        },
+        {
+          "text": "arghhh i got heart attack"
+        },
+        {
+          "text": "heart pain sial"
+        }
+      ],
+      "description": "heart attack or asthma"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "Dementia_Detection",
+      "examples": [
+        {
+          "text": "i forgot what you said"
+        },
+        {
+          "text": "can u repeat?"
+        },
+        {
+          "text": "what did i say again?"
+        },
+        {
+          "text": "im not too sure"
+        },
+        {
+          "text": "maybe"
+        },
+        {
+          "text": "perhaps"
+        },
+        {
+          "text": "Im not very sure"
+        },
+        {
+          "text": "errrrrr"
+        },
+        {
+          "text": "When is my birthday"
+        },
+        {
+          "text": "i forgot my name"
+        },
+        {
+          "text": "who is what when where why"
+        },
+        {
+          "text": "I dont know who is my child"
+        },
+        {
+          "text": "what am i"
+        },
+        {
+          "text": "who am i"
+        },
+        {
+          "text": "What day is it today"
+        },
+        {
+          "text": "whats my name"
+        },
+        {
+          "text": "How old am i"
+        },
+        {
+          "text": "Where am i"
+        },
+        {
+          "text": "What was i doing 5 minutes ago"
+        },
+        {
+          "text": "How many pills should I take"
+        },
+        {
+          "text": "what is my address?"
+        },
+        {
+          "text": "Let me think…"
+        },
+        {
+          "text": "did i take my medication today?"
+        },
+        {
+          "text": "did i take my medicine?"
+        },
+        {
+          "text": "did i eat today?"
+        },
+        {
+          "text": "i forgot what i said"
+        },
+        {
+          "text": "can you repeat"
+        }
+      ],
+      "description": "check for dementia"
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "what can i say"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "i need assistance"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you real?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "On_Fire",
+      "examples": [
+        {
+          "text": "there is a pyroclasm in my apartment"
+        },
+        {
+          "text": "The smoke is suffocating me"
+        },
+        {
+          "text": "help theres a fire"
+        },
+        {
+          "text": "help me fire"
+        },
+        {
+          "text": "help help im on fire"
+        },
+        {
+          "text": "Fire in the hole"
+        },
+        {
+          "text": "fire fire"
+        },
+        {
+          "text": "fire"
+        },
+        {
+          "text": "can water put out fire"
+        },
+        {
+          "text": "What should i do if there is a fire"
+        },
+        {
+          "text": "My kitchen is on fire"
+        },
+        {
+          "text": "Why got so many smoke"
+        },
+        {
+          "text": "My neighbour house is on fire"
+        },
+        {
+          "text": "Can’t see the fire"
+        },
+        {
+          "text": "So smelly"
+        },
+        {
+          "text": "Why is there so much smoke"
+        },
+        {
+          "text": "Fire starting somewhere"
+        },
+        {
+          "text": "Oh my god smoke"
+        },
+        {
+          "text": "I see smoke"
+        },
+        {
+          "text": "Wires on fire"
+        },
+        {
+          "text": "There's a fire!!"
+        },
+        {
+          "text": "why is everything hot and yellow"
+        },
+        {
+          "text": "how do i put out a fire"
+        },
+        {
+          "text": "i need firefighter"
+        },
+        {
+          "text": "i smell smoke"
+        },
+        {
+          "text": "my cat is on fire"
+        },
+        {
+          "text": "My dog is flaming"
+        },
+        {
+          "text": "my fish is on fire"
+        },
+        {
+          "text": "my stove is burning"
+        },
+        {
+          "text": "OMG I am on fire"
+        },
+        {
+          "text": "ouch i just got burned from the massive fire in my house"
+        },
+        {
+          "text": "there is a fire in my house right now"
+        }
+      ],
+      "description": "something is on fire"
+    },
+    {
+      "intent": "good",
+      "examples": [
+        {
+          "text": "its been a good morning"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "its a great day"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "good"
+        },
+        {
+          "text": "wonderful"
+        },
+        {
+          "text": "Im feeling good"
+        },
+        {
+          "text": "the sun is shining"
+        },
+        {
+          "text": "cannot be better"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "yes",
+      "examples": [
+        {
+          "text": "yes"
+        }
+      ]
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like fun?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "Robbery",
+      "examples": [
+        {
+          "text": "dont kill me"
+        },
+        {
+          "text": "there is a thief la sial"
+        },
+        {
+          "text": "got robber"
+        },
+        {
+          "text": "i was robbed"
+        },
+        {
+          "text": "there is a robber"
+        },
+        {
+          "text": "spare me"
+        },
+        {
+          "text": "someone is stealing things in my house"
+        },
+        {
+          "text": "got thief"
+        },
+        {
+          "text": "someone is in my house"
+        },
+        {
+          "text": "owe money pay money"
+        }
+      ],
+      "description": "getting robbed real quick"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "much appreciated"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "General_Connect_to_Human",
+      "examples": [
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "get me a person"
+        },
+        {
+          "text": "I don't want to speak with a robot"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "I want to talk to the manager"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "talk to a human"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "i need a doctor"
+        },
+        {
+          "text": "I dont want to talk to a computer"
+        },
+        {
+          "text": "call the manager"
+        },
+        {
+          "text": "I want to speak to a human"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "I want to speak to a person"
+        },
+        {
+          "text": "representative"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "so long"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ciao"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "No",
+      "examples": [
+        {
+          "text": "no"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "no need"
+        }
+      ],
+      "description": "no"
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "How do I use you?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "fuk u"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "I do not like you"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "cancel the request"
+        },
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "nevermind"
+        },
+        {
+          "text": "forget it"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "cancel that"
+        },
+        {
+          "text": "i changed my mind"
+        }
+      ],
+      "description": "Cancel the current request"
+    },
+    {
+      "intent": "Escalate_To_Human",
+      "examples": [
+        {
+          "text": "I need to talk to someone"
+        },
+        {
+          "text": "I don't think you are real"
+        },
+        {
+          "text": "I need help and I need to talk"
+        },
+        {
+          "text": "I want to talk to a real person"
+        },
+        {
+          "text": "I am not sure whether to talk to you about my problem"
+        },
+        {
+          "text": "I want to talk to someone else"
+        },
+        {
+          "text": "Can you tell someone higher up"
+        },
+        {
+          "text": "Can I look for someone else"
+        },
+        {
+          "text": "I need to talk to a professional"
+        },
+        {
+          "text": "You don’t understand me"
+        },
+        {
+          "text": "You don’t understand my question"
+        },
+        {
+          "text": "Can I talk to someone from care center"
+        },
+        {
+          "text": "Can I talk to someone from hospital"
+        },
+        {
+          "text": "Can I talk to someone from health services"
+        },
+        {
+          "text": "Can I talk to someone from charity"
+        },
+        {
+          "text": "Can you escalate to someone higher up"
+        },
+        {
+          "text": "Is there someone higher up I can talk to"
+        },
+        {
+          "text": "You don’t understand and can’t help"
+        }
+      ],
+      "description": "Escalate to a real human being"
+    },
+    {
+      "intent": "Illness",
+      "examples": [
+        {
+          "text": "my skin has sores and welts",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                12,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "text": "my eye is itchy",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                10,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i have a runny nose",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                17,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i am constipated",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                13,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i have diarrhoea",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                15,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i have food poisoning",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                15,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i have tuberculosis",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                15,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i am coughing a lot",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                5,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "text": "do i have fever?",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                10,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I think i have a flu",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                17,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I feel feverish",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I feel sick",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                7,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "text": "I am unwell",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                5,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i think i'm having a headache",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                21,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "text": "my head hurts",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                3,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i got mosquito bite",
+          "mentions": [
+            {
+              "entity": "object_of_interest",
+              "location": [
+                6,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "text": "i feel like dying"
+        }
+      ],
+      "description": "illness intent"
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Injury_Detection",
+      "examples": [
+        {
+          "text": "I cannot move anymore"
+        },
+        {
+          "text": "Bones dislocated"
+        },
+        {
+          "text": "My bones broke"
+        },
+        {
+          "text": "I slipped"
+        },
+        {
+          "text": "I am clumsy"
+        },
+        {
+          "text": "I can’t get up"
+        },
+        {
+          "text": "I cannot stand up"
+        },
+        {
+          "text": "Very painful and cannot move"
+        },
+        {
+          "text": "My ankles dislocated"
+        },
+        {
+          "text": "I am on the floor"
+        },
+        {
+          "text": "I am stuck on the floor"
+        },
+        {
+          "text": "I hurt hips"
+        },
+        {
+          "text": "I hurt my legs"
+        },
+        {
+          "text": "I hurt my head"
+        },
+        {
+          "text": "I hurt my hand"
+        },
+        {
+          "text": "lying motionless on the floor"
+        },
+        {
+          "text": "my dog bit me"
+        },
+        {
+          "text": "i cut my friend"
+        },
+        {
+          "text": "my cat scratched me"
+        },
+        {
+          "text": "someone stabbed me"
+        },
+        {
+          "text": "i cut myself"
+        },
+        {
+          "text": "my body hurts"
+        },
+        {
+          "text": "my eye is bleeding"
+        },
+        {
+          "text": "my arm is broken"
+        },
+        {
+          "text": "what is the closest hospital"
+        },
+        {
+          "text": "what is ambulance number"
+        },
+        {
+          "text": "someone in the house is bleeding"
+        },
+        {
+          "text": "ouch i broke my legs"
+        },
+        {
+          "text": "my leg hurts"
+        },
+        {
+          "text": "my knee pain"
+        },
+        {
+          "text": "is it alright to not be able to move after falling down"
+        },
+        {
+          "text": "i twisted my ankle"
+        },
+        {
+          "text": "i tried to catch my knife"
+        },
+        {
+          "text": "I need ambulance"
+        },
+        {
+          "text": "i fell down"
+        },
+        {
+          "text": "help pain pain"
+        },
+        {
+          "text": "got blood"
+        }
+      ],
+      "description": "general injury"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "object_of_interest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "tuberculosis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "coughing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "fever",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "feverish",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "flu",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sick",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "food poisoning",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "unwell",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "headache",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "head hurts",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mosquito bite",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sores and welts",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "runny nose",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "mosquito",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "bitten",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "welts",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "sores",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "itchy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "eye",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "nose",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "runny",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "constipated",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "diarrhoea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "poisoning",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "food",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "SG Phone pattern",
+          "patterns": [
+            "(\\d{4})-(\\d{4})",
+            "(\\d{8})"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "SG Zip",
+          "patterns": [
+            "(\\b|\\s)\\d{6}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "no",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "no",
+            "never mind"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "food",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "yes",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yes",
+            "yep",
+            "yea",
+            "ya",
+            "ya sia",
+            "yeah",
+            "yeap",
+            "yup",
+            "faster",
+            "ya la",
+            "fast fast"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "chest_pain",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.cloud.ibm.com/api/v1/web/cheejiayuan%40yahoo.com.sg_dev/default/scdf_wiki.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "text": "OK. Let me know how I can help"
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@no",
+      "dialog_node": "node_21_1468350173406",
+      "previous_sibling": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Transferring... [Use IBM Cloud Functions to connect to backend systems]"
+          ]
+        }
+      },
+      "parent": "node_22_1467833484410",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@yes",
+      "dialog_node": "node_19_1468350024009"
+    },
+    {
+      "type": "standard",
+      "title": "Breakfast",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have you eaten breakfast yet?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1592041973150",
+      "context": {
+        "Met": 1
+      },
+      "conditions": "#good && $temp == 1",
+      "dialog_node": "node_6_1592042013029",
+      "previous_sibling": "node_1_1592054842322"
+    },
+    {
+      "type": "standard",
+      "title": "Alternative",
+      "parent": "node_3_1592041973150",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592059325292"
+      },
+      "conditions": "$Met==1 && #good",
+      "dialog_node": "node_1_1592054842322"
+    },
+    {
+      "type": "standard",
+      "title": "How is your day?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How is your day?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Opening",
+      "context": {},
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_3_1592041973150"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I will be listening for any complications you might have."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592054842322",
+      "context": {
+        "temp": 0
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "\"<? $Met == 1 ?>\"",
+      "dialog_node": "response_9_1592055917360"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Calling ambulance now, they will be with you shortly!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "In the meantime, unlock your door for the paramedics to enter."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1522439390442",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@yes",
+      "dialog_node": "node_9_1592016839969",
+      "previous_sibling": "node_9_1592016930143"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do call if there is an emergency, okay?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1522439390442",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@no || #No",
+      "dialog_node": "node_9_1592016930143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You may be showing signs of dementia. I would like to refer you to a specialist."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "dementia": "<? $dementia + 1 ?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_12_1468329566917"
+      },
+      "conditions": "$dementia >= 2",
+      "dialog_node": "node_25_1522598839584",
+      "previous_sibling": "handler_7_1509696539866"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": []
+        }
+      },
+      "parent": "Reservation using slots",
+      "disabled": true,
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1509696539866",
+      "previous_sibling": "handler_16_1509133697261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Okay, let me repeat what I just said.",
+            "No problem, I will repeat the question one more time."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "dementia": "<? $dementia + 1 ?>"
+      },
+      "metadata": {},
+      "conditions": "$dementia <= 1",
+      "dialog_node": "node_10_1509697567474",
+      "previous_sibling": "node_25_1522598839584"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Let me check availability..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {},
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1519173961259",
+      "previous_sibling": "node_10_1509697567474"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Canceling your request..."
+          ]
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "date": null,
+        "time": null,
+        "phone": null,
+        "confirm": null,
+        "specialist": null,
+        "user_cancelled": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Cancel",
+      "event_name": "generic",
+      "dialog_node": "handler_16_1509133697261",
+      "previous_sibling": "handler_3_1501275087289"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I see you need help making an appointment. Let me transfer you to an agent..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "date": null,
+        "time": null,
+        "phone": null,
+        "confirm": null,
+        "specialist": null,
+        "user_needs_help": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Help",
+      "event_name": "generic",
+      "dialog_node": "handler_3_1501275087289"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Very good.\nI will be around when you need me. Just call for me anytime for assistance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592042090878",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@yes",
+      "dialog_node": "node_3_1592042345505"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you need the ambulance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Hours of Operation",
+      "disabled": true,
+      "dialog_node": "response_2_1592048929777"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_1.extract.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592020212014",
+      "conditions": "$webhook_result_1.extract.type==\"standard\"",
+      "dialog_node": "response_5_1592023444000",
+      "previous_sibling": "response_2_1592023442452"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am not quite sure about the term @object_of_interest . Please try another topic."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1592020212014",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1592025888394",
+      "previous_sibling": "response_5_1592023444000"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you exhibit these symptoms?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_1.extract.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "$webhook_result_1.extract.title",
+            "source": "$webhook_result_1.extract.thumbnail.source",
+            "description": "$webhook_result_1.extract.description",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_4_1592020212014",
+      "conditions": "$webhook_result_1.extract.thumbnail",
+      "dialog_node": "response_2_1592023442452"
+    },
+    {
+      "type": "standard",
+      "title": "Medication",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have you taken your medication?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1592042013029",
+      "conditions": "@yes",
+      "dialog_node": "node_7_1592042090878"
+    },
+    {
+      "type": "standard",
+      "title": "Call ambulance",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you need me to call an ambulance?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no need"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1522439390442",
+      "previous_sibling": "response_10_1592017979724"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Directions",
+      "dialog_node": "response_10_1592017979724"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good bye! But I will stay around in case you need my assistance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1468329566917",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1592051587860"
+      },
+      "conditions": "true",
+      "dialog_node": "response_8_1592045120541",
+      "previous_sibling": "response_5_1592047438804"
+    },
+    {
+      "type": "standard",
+      "title": "Call specialist",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Calling specialist...\n\nI will be around for a while. Wake me up when you need to."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1468329566917",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "$dementia >= 2",
+      "dialog_node": "node_3_1592054238588",
+      "previous_sibling": "node_10_1592051587860"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Where do you stay?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1468329566917",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1592054238588"
+      },
+      "conditions": "$dementia >= 2",
+      "dialog_node": "response_5_1592047438804",
+      "previous_sibling": "node_3_1592054238588"
+    },
+    {
+      "type": "standard",
+      "title": "Ambulance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The closest hospital will be xxx, right?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1468329566917",
+      "conditions": "@zip_code",
+      "dialog_node": "node_10_1592051587860"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Calling the SCDF, they will be with you soon."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "In the meantime, please evacuate your surroundings and wrap a wet cloth around your nose and mouth."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Do not try to take any belongings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592018211368",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "@yes || #yes",
+      "dialog_node": "node_10_1592018434446",
+      "previous_sibling": "node_9_1592018379208"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Orh ok have fun"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592018211368",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "#No",
+      "dialog_node": "node_9_1592018379208"
+    },
+    {
+      "type": "standard",
+      "title": "Please transfer me to a human",
+      "output": {
+        "text": {
+          "values": [
+            "Would you like to talk to a caregiver?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Escalate_To_Human || #General_Connect_to_Human",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_22_1467833484410",
+      "digress_out": "allow_all_never_return",
+      "previous_sibling": "node_9_1592048816119"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_22_1467833484410",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "temporary holding",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Opening"
+      },
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1592059325292",
+      "previous_sibling": "node_2_1467831978407"
+    },
+    {
+      "type": "standard",
+      "title": "Feeling sick",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "object_of_interest": "@object_of_interest"
+          },
+          "result_variable": "$webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@object_of_interest && #Illness",
+      "digress_in": "returns",
+      "dialog_node": "node_4_1592020212014",
+      "digress_out": "allow_all",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Opening"
+      },
+      "conditions": "#Goodbye",
+      "digress_in": "not_available",
+      "dialog_node": "node_12_1468329566917",
+      "digress_out": "allow_all",
+      "previous_sibling": "Reservation using slots"
+    },
+    {
+      "type": "standard",
+      "title": "On Fire",
+      "output": {
+        "generic": [
+          {
+            "title": "Do you need me to call firefighter?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#On_Fire",
+      "dialog_node": "node_1_1592018211368",
+      "previous_sibling": "Hours of Operation"
+    },
+    {
+      "type": "standard",
+      "title": "Experiencing chest pain",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you need the ambulance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1522439390442"
+      },
+      "conditions": "#Chest_Pain",
+      "digress_in": "does_not_return",
+      "dialog_node": "Hours of Operation",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1592020212014"
+    },
+    {
+      "type": "standard",
+      "title": "dementia",
+      "output": {},
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Dementia_Detection",
+      "digress_in": "returns",
+      "dialog_node": "Reservation using slots",
+      "digress_out": "allow_all",
+      "previous_sibling": "Directions"
+    },
+    {
+      "type": "standard",
+      "title": "Fire fighter",
+      "dialog_node": "node_9_1592048816119",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "standard",
+      "title": "General Injury",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Injury_Detection",
+      "digress_in": "does_not_return",
+      "dialog_node": "Directions",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1592018211368"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "generic": [
+          {
+            "source": "https://raw.githubusercontent.com/cheejiayuan512/scdfxibm/master/images/PinClipart.com_baymax-clip-art_1895440.png",
+            "description": "",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Hello, I’m the Elderly Helper.  I am here to check on you today! Say hi back to let me know you are there!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "temp": 1,
+        "dementia": 0,
+        "emergency": false
+      },
+      "metadata": {},
+      "conditions": "welcome || $dementia == 3",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Customer Care Sample Skill",
+  "language": "en",
+  "description": "Sample simple customer service skill to get you started."
+}
