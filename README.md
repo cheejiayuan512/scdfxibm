@@ -87,7 +87,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ## Live demo
 
-Alternatively, You can find a live web demo of our ChatBot to test [here](second url)
+Alternatively, You can find a live web demo of our ChatBot to test [here!](https://watson-voice-bot-20200614030738831.mybluemix.net/)
 
 ## Built with
 
