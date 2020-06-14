@@ -82,7 +82,7 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
-1. Download the .apk [here.](ElderlyHelper.apk)
+1. Download the .apk [here.](https://github.com/cheejiayuan512/scdfxibm/raw/master/ElderlyHelper.apk)
 2. Install and try it out for yourself!
 
 ## Live demo
